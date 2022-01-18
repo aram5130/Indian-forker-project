@@ -9,5 +9,3 @@
 ## Image Reference
 
 ## Links
-
-### CC
